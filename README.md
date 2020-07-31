@@ -1,4 +1,4 @@
-![Latest blog post workflow](https://github.com/kristianjackson/kristianjackson/workflows/Latest%20blog%20post%20workflow/badge.svg)
+![Latest blog post workflow](https://github.com/kristianjackson/kristianjackson/workflows/Latest%20blog%20post%20workflow/badge.svg?branch=master)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
