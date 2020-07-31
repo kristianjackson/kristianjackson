@@ -1,3 +1,5 @@
+![Latest blog post workflow](https://github.com/kristianjackson/kristianjackson/workflows/Latest%20blog%20post%20workflow/badge.svg)
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
