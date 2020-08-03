@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristianjackson)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
-# Blog posts
+# Blog posts from Medium
 <!-- BLOG-POST-LIST:START -->
 - [How To Get Started With Robotic Process Automation (RPA)](https://medium.com/@kristian.jackson/how-to-get-started-with-robotic-process-automation-rpa-453c9b3ca33c?source=rss-f0a00d446188------2)
 - [IBM Data Science Professional — Capstone Project](https://medium.com/the-innovation/ibm-data-science-professional-capstone-project-360d3ff54d56?source=rss-f0a00d446188------2)
