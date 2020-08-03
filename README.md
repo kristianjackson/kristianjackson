@@ -1,19 +1,3 @@
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/RealKrisJackson
-[2]: https://www.linkedin.com/in/kristian-jackson-025748178/
-
-![Latest blog post workflow](https://github.com/kristianjackson/kristianjackson/workflows/Latest%20blog%20post%20workflow/badge.svg?branch=master)
-
 [![Kristian's github stats](https://github-readme-stats.vercel.app/api?username=kristianjackson&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristianjackson&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
