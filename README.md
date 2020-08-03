@@ -1,8 +1,8 @@
 ![Latest blog post workflow](https://github.com/kristianjackson/kristianjackson/workflows/Latest%20blog%20post%20workflow/badge.svg?branch=master)
 
-[![Kristian's github stats](https://github-readme-stats.vercel.app/api?username=kristianjackson)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+[![Kristian's github stats](https://github-readme-stats.vercel.app/api?username=kristianjackson&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristianjackson)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristianjackson&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Blog posts from Medium
 <!-- BLOG-POST-LIST:START -->
