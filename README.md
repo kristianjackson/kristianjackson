@@ -1,6 +1,6 @@
 ![Latest blog post workflow](https://github.com/kristianjackson/kristianjackson/workflows/Latest%20blog%20post%20workflow/badge.svg?branch=master)
 
-[![Kristian's github stats](https://github-readme-stats.vercel.app/api?username=kristianjackson)](https://github.com/anuraghazra/github-readme-stats)
+[![Kristian's github stats](https://github-readme-stats.vercel.app/api?username=kristianjackson)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
