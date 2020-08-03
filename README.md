@@ -1,5 +1,7 @@
 ![Latest blog post workflow](https://github.com/kristianjackson/kristianjackson/workflows/Latest%20blog%20post%20workflow/badge.svg?branch=master)
 
+[![Kristian's github stats](https://github-readme-stats.vercel.app/api?username=kristianjackson)](https://github.com/anuraghazra/github-readme-stats)
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How To Get Started With Robotic Process Automation (RPA)](https://medium.com/@kristian.jackson/how-to-get-started-with-robotic-process-automation-rpa-453c9b3ca33c?source=rss-f0a00d446188------2)
